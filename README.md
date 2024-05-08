@@ -3,10 +3,12 @@ About
 <table>
   <tr>
     <td valign="center">
-      🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
-      🌱 I am currently learning **Java** and also interested in **Web Development**.
-      🎯 My Goal is to Contribute to as many **open source project** as possible.
-      ✨ I love to create different types of **contents**.
+      🎓 I'm currently working on Selenium Python in pytest framework.
+      🌱 I’m currently learning Advance Design Patterns, Selenium, API Automation
+      👯 I’m looking to collaborate on API Testing, Selenium, Automation Frameworks
+      👨‍💻 All of my projects are available at https://github.com/snchorsiya/Sheetal-Chorsiya
+      💬 Ask me about Selenium, SDET, Python, POSTMAN
+      📄 Know about my experiences http://linkedin.com/in/sheetal-chorsiya
 <td >
     
   </tr>
