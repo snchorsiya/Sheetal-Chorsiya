@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from .... Ahmedabad<br><br>-  🎓 I'm currently working on Selenium Python in pytest framework ...<br>- 🌱 I’m currently learning Advance Design Patterns, Selenium, API Automation ...<br>- 👯 I’m looking to collaborate on API Testing, Selenium, Automation Frameworks ... <br>- 👨‍💻 All of my projects are available at https://github.com/snchorsiya/Sheetal-Chorsiya ... <br>- 💬 Ask me about Selenium, SDET, Python, POSTMAN ... <br>- 📄 Know about my experiences http://linkedin.com/in/sheetal-chorsiya ...</p>
 
 ###
 
