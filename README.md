@@ -2,7 +2,7 @@
 About
 <table>
   <tr>
-    <td valign="center">
+    <td valign="">
       🎓 I'm currently working on Selenium Python in pytest framework.
       🌱 I’m currently learning Advance Design Patterns, Selenium, API Automation
       👯 I’m looking to collaborate on API Testing, Selenium, Automation Frameworks
