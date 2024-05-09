@@ -1,50 +1,35 @@
-###
-
 <h1 align="center">Hi 👋, I'm Sheetal</h1>
+<h3 align="center">A passionate QA Automation Engineer from India. I work in Corporate</h3>
 
-###
-<ul dir="auto">
-<li>
-<p dir="auto">🔭 I'm currently working on Selenium Python in pytest framework </a></p>
-</li>
-<li>
-<p dir="auto">🌱 I’m currently learning Advance Design Patterns, Selenium, <strong>Rest API Automation, Robot Framework</strong></p>
-</li>
-<li>
-<p dir="auto">👯 I’m looking to collaborate on <strong>API Testing, Selenium, Automation Frameworks</strong></p>
-</li>
-<li>
-<p dir="auto">👨‍💻 All of my projects are available at <a href="https://github.com/snchorsiya/Sheetal-Chorsiya">https://github.com/snchorsiya/Sheetal-Chorsiya</a></p>
-</li>
-<li>
-<p dir="auto">💬 Ask me about <strong>Selenium, SDET, Python, POSTMAN, Rest Assured</strong></p>
-</li>
-<li>
-<p dir="auto">📫 How to reach me <strong><a href="mailto:snchorsiya008@gmail.com">snchorsiya008@gmail.com</a></strong></p>
-</li>
-<li>
-<p dir="auto">📄 Know about my experiences <a href="http://linkedin.com/in/sheetal-chorsiya" rel="nofollow">http://linkedin.com/in/sheetal-chorsiya</a></p>
-</li>
-</ul>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=snchorsiya&label=Profile%20views&color=0e75b6&style=flat" alt="snchorsiya" /> </p>
 
-<p align="left" dir="auto">
-<a href="https://linkedin.com/in//sheetal-chorsiya" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/a12f97e0370c6c839fe198521c5536f0fb2ea4ec9005247525f5f3c2f2e91e7e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="sheetal-chorsiya" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width: 100%;"></a>
+- 🔭 I’m currently working on **Selenium Python in pytest framework**
+
+- 🌱 I’m currently learning **Advance Design Patterns, Selenium, API Automation**
+
+- 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
+
+- 👨‍💻 All of my projects are available at [https://github.com/snchorsiya/Sheetal-Chorsiya](https://github.com/snchorsiya/Sheetal-Chorsiya)
+
+- 💬 Ask me about **Selenium, SDET, Python, POSTMAN**
+
+- 📫 How to reach me **snchorsiya008@gmail.com**
+
+- 📄 Know about my experiences [http://linkedin.com/in/sheetal-chorsiya](http://linkedin.com/in/sheetal-chorsiya)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sheetal-chorsiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheetal-chorsiya" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://docs.pytest.org/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="40" height="40"> </a> </p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snchorsiya&show_icons=true&locale=en&layout=compact" alt="snchorsiya" /></p>
 
-<div align="left">
-<a href="https://www.selenium.dev" rel="nofollow"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://www.jenkins.io" rel="nofollow"> <img src="https://camo.githubusercontent.com/677d7d6afeeb04410190a061d7bbb6fb8a5246c6dc80ab4b665988ca04b091d1/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6a656e6b696e732f6a656e6b696e732d69636f6e2e737667" alt="jenkins" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="max-width: 100%;"> </a>
-<a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" data-canonical-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"> </a>
-<a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
-<a href="https://www.djangoproject.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="max-width: 100%;"> </a>
-<a href="https://www.postman.com/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="max-width: 100%;"> </a>
-<a href="https://docs.pytest.org/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" style="max-width: 100%;"> </a>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snchorsiya&show_icons=true&locale=en" alt="snchorsiya" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snchorsiya&" alt="snchorsiya" /></p>
 
-</article>
-  </div>
+### My GitHub Contributions
+![Snake animation] (https://github.com/snchorsiya/snchorsiya/blob/output/github-contribution-grid-snake.svg)
